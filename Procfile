@@ -1,0 +1,1 @@
+worker: python Jaina_weather_bot.py
